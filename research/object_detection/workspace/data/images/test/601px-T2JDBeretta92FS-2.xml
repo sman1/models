@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>601px-T2JDBeretta92FS-2.jpg</filename>
+	<path>/home/shaun/grec/tensorflow/workspace/guns/images/test/601px-T2JDBeretta92FS-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>601</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>85</ymin>
+			<xmax>340</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

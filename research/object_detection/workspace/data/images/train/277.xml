@@ -1,0 +1,26 @@
+<annotation>
+	<folder>guns</folder>
+	<filename>277.jpg</filename>
+	<path>/home/shaun/tensorbox/data/guns/277.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>174</ymin>
+			<xmax>455</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

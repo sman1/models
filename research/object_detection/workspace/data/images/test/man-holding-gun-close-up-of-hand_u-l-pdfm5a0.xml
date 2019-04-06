@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>man-holding-gun-close-up-of-hand_u-l-pdfm5a0.jpg</filename>
+	<path>/home/shaun/grec/tensorflow/workspace/guns/images/test/man-holding-gun-close-up-of-hand_u-l-pdfm5a0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>413</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>155</ymin>
+			<xmax>376</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

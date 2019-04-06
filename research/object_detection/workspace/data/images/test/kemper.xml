@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>kemper.jpg</filename>
+	<path>/home/shaun/grec/tensorflow/workspace/guns/images/test/kemper.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>175</ymin>
+			<xmax>367</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

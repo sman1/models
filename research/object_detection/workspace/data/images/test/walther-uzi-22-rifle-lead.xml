@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>walther-uzi-22-rifle-lead.jpg</filename>
+	<path>/home/shaun/grec/tensorflow/workspace/guns/images/test/walther-uzi-22-rifle-lead.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>647</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>243</ymin>
+			<xmax>558</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

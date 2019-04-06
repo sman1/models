@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>web1_2016-03-28t201322z_1_lynxnpec2r0rw_rtroptp_4_usa-washington-capitol_14.jpg</filename>
+	<path>/home/shaun/grec/tensorflow/workspace/guns/images/test/web1_2016-03-28t201322z_1_lynxnpec2r0rw_rtroptp_4_usa-washington-capitol_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>222</ymin>
+			<xmax>247</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

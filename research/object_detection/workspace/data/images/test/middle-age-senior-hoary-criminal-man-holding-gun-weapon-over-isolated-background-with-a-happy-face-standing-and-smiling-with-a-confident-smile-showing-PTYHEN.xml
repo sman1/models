@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>middle-age-senior-hoary-criminal-man-holding-gun-weapon-over-isolated-background-with-a-happy-face-standing-and-smiling-with-a-confident-smile-showing-PTYHEN.jpg</filename>
+	<path>/home/shaun/grec/tensorflow/workspace/guns/images/test/middle-age-senior-hoary-criminal-man-holding-gun-weapon-over-isolated-background-with-a-happy-face-standing-and-smiling-with-a-confident-smile-showing-PTYHEN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1052</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>155</ymin>
+			<xmax>789</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+</annotation>

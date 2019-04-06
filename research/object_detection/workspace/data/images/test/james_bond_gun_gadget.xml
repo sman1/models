@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>james_bond_gun_gadget.jpg</filename>
+	<path>/home/shaun/grec/tensorflow/workspace/guns/images/test/james_bond_gun_gadget.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>442</width>
+		<height>293</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>14</ymin>
+			<xmax>123</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>
